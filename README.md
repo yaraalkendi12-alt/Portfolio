@@ -48,13 +48,3 @@ A Power BI project built using dummy data to represent gym member activities. Th
 
 ---
 
-##  Connect with Me
-
-If you’d like to know more about my work or collaborate on a project, feel free to reach out:
-
-- **GitHub:** https://github.com/yaraalkendi12-alt  
-- **Email:** Yara.alkendi12@gmail.com
-
----
-
-*Thank you for visiting! *
