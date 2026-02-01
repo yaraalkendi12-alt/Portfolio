@@ -1,6 +1,6 @@
-# 🌟 My Projects Portfolio
+# My Projects Portfolio
 
-Welcome! 👋 This repository contains a curated collection of my Power BI projects.  
+Welcome! This repository contains a curated collection of my Power BI projects.  
 Below you’ll find an overview of each project with descriptions, technologies used, and direct links to explore further.
 
 ---
@@ -9,7 +9,7 @@ Below you’ll find an overview of each project with descriptions, technologies 
 
 ---
 
-### 🚀 Saudi Downtown – Procurement Dashboard
+###  Saudi Downtown – Procurement Dashboard
 
 🔗 **Repository:** https://github.com/yaraalkendi12-alt/Saudi-Downtown-Procurement-Dashboard
 
@@ -30,7 +30,7 @@ This Power BI dashboard provides a comprehensive view of procurement performance
 
 ---
 
-### 💪 Fitness Time – Power BI Project (Dummy Data)
+###  Fitness Time – Power BI Project (Dummy Data)
 
 🔗 **Repository:** https://github.com/yaraalkendi12-alt/FitnessTime-DummyData
 
@@ -48,7 +48,7 @@ A Power BI project built using dummy data to represent gym member activities. Th
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 If you’d like to know more about my work or collaborate on a project, feel free to reach out:
 
@@ -57,4 +57,4 @@ If you’d like to know more about my work or collaborate on a project, feel fre
 
 ---
 
-*Thank you for visiting! 😊*
+*Thank you for visiting! *
