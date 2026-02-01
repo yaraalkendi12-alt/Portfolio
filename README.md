@@ -14,7 +14,7 @@ Below you’ll find an overview of each project with descriptions, technologies 
 🔗 **Repository:** https://github.com/yaraalkendi12-alt/Saudi-Downtown-Procurement-Dashboard
 
 **Description**  
-This Power BI dashboard provides a comprehensive view of procurement performance using real organizational data. It highlights key metrics like approval rates, financial exposure, supplier activity, and operational efficiency — helping stakeholders make data-driven decisions. :contentReference[oaicite:4]{index=4}
+This Power BI dashboard provides a comprehensive view of procurement performance using real organizational data. It highlights key metrics like approval rates, financial exposure, supplier activity, and operational efficiency — helping stakeholders make data-driven decisions. 
 
 **Key Features**
 - Interactive procurement performance visuals  
@@ -26,7 +26,7 @@ This Power BI dashboard provides a comprehensive view of procurement performance
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Data modeling & transformation**  
-- **Performance analysis dashboards** :contentReference[oaicite:5]{index=5}
+- **Performance analysis dashboards** 
 
 ---
 
@@ -35,7 +35,7 @@ This Power BI dashboard provides a comprehensive view of procurement performance
 🔗 **Repository:** https://github.com/yaraalkendi12-alt/FitnessTime-DummyData
 
 **Description**  
-A Power BI project built using dummy data to represent gym member activities. The dashboard includes key indicators such as membership types, total visits, estimated calories burned, member feedback scores, and most frequent exercises. The structure allows replacing dummy data with real data if needed. :contentReference[oaicite:6]{index=6}
+A Power BI project built using dummy data to represent gym member activities. The dashboard includes key indicators such as membership types, total visits, estimated calories burned, member feedback scores, and most frequent exercises. The structure allows replacing dummy data with real data if needed. 
 
 **Key Features**
 - Membership activity tracking  
@@ -44,7 +44,7 @@ A Power BI project built using dummy data to represent gym member activities. Th
 - Customizable with real datasets
 
 **Technologies Used**
-- **Power BI Desktop** :contentReference[oaicite:7]{index=7}
+- **Power BI Desktop** 
 
 ---
 
